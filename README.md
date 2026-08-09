@@ -41,3 +41,22 @@ medical-store-management-system/
 ├── medicine_db.py
 ├── requirements.txt
 └── schema.sql
+## Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/Main_UI.jpeg)
+
+### Search & Update Medicine
+![Search and Update](screenshots/search_update.jpeg)
+
+### Generate Bill
+![Generate Bill](screenshots/bill_generate.jpeg)
+
+### Bill History
+![Bill History](screenshots/bill_history.jpeg)
+
+### Low Stock Alert
+![Low Stock Alert](screenshots/low_stock.jpeg)
+
+### Expiry Alert
+![Expiry Alert](screenshots/expiry_date_warning.jpeg)
