@@ -78,5 +78,6 @@ cd medical-store-management-system
 
 Author:Ayushman Pyne
 B.Tech CSE (Data Science) Student  
+
 University of Engineering & Management (UEM), New Town
 If you like this project, consider giving it a star!
