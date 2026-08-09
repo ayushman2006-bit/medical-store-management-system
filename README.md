@@ -47,7 +47,7 @@ medical-store-management-system/
 ![Main Dashboard](screenshots/Main_UI.jpeg)
 
 ### Search & Update Medicine
-![Search and Update](screenshots/search update.jpeg)
+![Search and Update](screenshots/search_update_with_autocomplete_feature.jpeg)
 
 ### Generate Bill
 ![Generate Bill](screenshots/bill_generate.jpeg)
