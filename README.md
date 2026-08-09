@@ -42,7 +42,7 @@ medical-store-management-system/
 ├── requirements.txt
 └── schema.sql
 ## Screenshots
-
+```
 ### Main Dashboard
 ![Main Dashboard](screenshots/Main_UI.jpeg)
 
