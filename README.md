@@ -43,20 +43,26 @@ medical-store-management-system/
 └── schema.sql
 ## Screenshots
 ```
+## Screenshots
+
 ### Main Dashboard
-![Main Dashboard](screenshots/Main_UI.jpeg)
 
-### Search & Update Medicine
-![Search and Update](screenshots/search_update_with_autocomplete_feature.jpeg)
+<p align="center">
+  <img src="screenshots/Main_UI.jpeg" width="90%">
+</p>
 
-### Generate Bill
-![Generate Bill](screenshots/bill_generate.jpeg)
+### Application Features
 
-### Bill History
-![Bill History](screenshots/bill_history.jpeg)
+<p align="center">
+  <img src="screenshots/search_update_with_autocomplete_feature.jpeg" width="48%">
+  <img src="screenshots/bill_generate.jpeg" width="48%">
+</p>
 
-### Low Stock Alert
-![Low Stock Alert](screenshots/low_stock.jpeg)
+<p align="center">
+  <img src="screenshots/bill_history.jpeg" width="48%">
+  <img src="screenshots/low_stock.jpeg" width="48%">
+</p>
 
-### Expiry Alert
-![Expiry Alert](screenshots/expiry_date_warning.jpeg)
+<p align="center">
+  <img src="screenshots/expiry_date_warning.jpeg" width="48%">
+</p>
