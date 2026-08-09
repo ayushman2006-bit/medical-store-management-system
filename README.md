@@ -43,6 +43,15 @@ medical-store-management-system/
 └── schema.sql
 ## Screenshots
 ```
+## Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ayushman2006-bit/medical-store-management-system.git
+cd medical-store-management-system
+
+```
 ## Screenshots
 
 ### Main Dashboard
