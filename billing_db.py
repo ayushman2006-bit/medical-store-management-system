@@ -27,7 +27,7 @@ def get_bill_history():
 def save_bill_and_update_stock(total, bill_items):
     try:
         
-        db.start_transaction()
+    
 
         
         cursor.execute(
